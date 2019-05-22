@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG2_EyasRashid/BinTree.cpp
+BinTree.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG2_EyasRashid/BinTree.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG2_EyasRashid/BinTree.h
+nodedata.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG2_EyasRashid/nodedata.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG2_EyasRashid/main.cpp
+BinTree.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG2_EyasRashid/BinTree.h
+fstream
+-
+iostream
+-
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG2_EyasRashid/nodedata.h
+string
+-
+iostream
+-
+fstream
+-
+
